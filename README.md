@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/stringlb)
+
 # StringLB
  String manipulation functions
 
