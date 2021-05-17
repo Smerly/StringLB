@@ -1,4 +1,5 @@
 ![npm](https://img.shields.io/npm/v/stringlb)
+[![Coverage Status](https://coveralls.io/repos/github/Smerly/stringlb/badge.svg)](https://coveralls.io/github/Smerly/stringlb)
 
 # StringLB
  String manipulation functions
